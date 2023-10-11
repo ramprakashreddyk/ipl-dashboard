@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png");
+  background-size: cover;
+}
+
+.RCB {
+  background-color: #a4261d;
+}
+.KKR {
+  background-color: #3A225D;
+}
+
+.RR {
+  background-color: #da237b;
+}
+
+.CSK {
+  background-color: #f7db00;
+}
+
+.MI {
+  background-color: #004B8D;
+}
+
+.KXP {
+  background-color: #d91c1f;
+}
+
+.SH {
+  background-color: #f26d22;
+}
+
+.DC {
+  background-color: #4f5db0;
+}
